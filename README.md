@@ -3,7 +3,8 @@ Challenges
 The participants can select one of the below mentioned challenges in which they will start working from Day 1 and then submit their work at the end of the Camp by generating a PR to this repository.
 
 Day 1 (Challenge)
-Data entry automation with Google Form and Excel:
+
+**Data entry automation with Google Form and Excel:**
 1. Download **InputData.xlsx**
 2. [InputData.xlsx](https://github.com/incubateind/idtcrpaDay2/files/6326484/InputData.xlsx)
 3. Read given input Excel File. 
@@ -14,6 +15,7 @@ Data entry automation with Google Form and Excel:
 
 
 Day 2 (Challenge)
+
 **PDF automation:** 
 1. Download InputPDF.pdf
 2. PDF Document: [InputPDF.pdf](https://github.com/incubateind/idtcrpaDay2/files/6326576/InputPDF.pdf)
